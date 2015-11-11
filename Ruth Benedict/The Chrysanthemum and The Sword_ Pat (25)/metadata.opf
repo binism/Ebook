@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef3cb096-04c0-4996-a831-a9ad39577934</dc:identifier>
+        <dc:title>The Chrysanthemum and The Sword: Patterns of Japanese Culture</dc:title>
+        <dc:creator opf:file-as="Benedict, Ruth" opf:role="aut">Ruth Benedict</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.40.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-28T05:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Essential reading for anyone interested in Japanese culture, this unsurpassedmasterwork opens an intriguing window on Japan. Benedict's World WarII–era study paints an illuminating contrast between the culture of Japan and that of the United States. The Chrysanthemum and the Sword is a revealing look at how and why our cultures differ, making it the perfect introduction to Japanese history and customs.</dc:description>
+        <dc:publisher>Houghton Mifflin Harcourt</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780618619597</dc:identifier>
+        <dc:language>zh</dc:language>
+        <dc:subject>History - General History</dc:subject>
+        <dc:subject>Anthropology</dc:subject>
+        <dc:subject>Anthropology - Cultural</dc:subject>
+        <dc:subject>Anthropology - General</dc:subject>
+        <dc:subject>Customs &amp; Traditions</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>National characteristics; Japanese</dc:subject>
+        <dc:subject>Asia</dc:subject>
+        <dc:subject>Asia - Japan</dc:subject>
+        <dc:subject>Japan - Civilization</dc:subject>
+        <dc:subject>Cultural</dc:subject>
+        <dc:subject>Civilization</dc:subject>
+        <dc:subject>Ethnic Studies</dc:subject>
+        <dc:subject>Japan</dc:subject>
+        <dc:subject>Cultural And Social Anthropology</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Sociology</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <meta content="{&quot;Ruth Benedict&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2015-10-11T09:53:51.638000+00:00" name="calibre:timestamp"/>
+        <meta content="Chrysanthemum and The Sword: Patterns of Japanese Culture, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

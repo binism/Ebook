@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e40aa4d4-2b09-4454-8896-85760b307603</dc:identifier>
+        <dc:title>Introduction to Combinatorial Testing</dc:title>
+        <dc:creator opf:file-as="Kuhn, D. Richard, Kacker, Raghu N., Lei, Yu" opf:role="aut">Kuhn, D. Richard, Kacker, Raghu N., Lei, Yu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.40.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;Kuhn, D. Richard, Kacker, Raghu N., Lei, Yu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-10-03T07:53:06.595000+00:00" name="calibre:timestamp"/>
+        <meta content="Introduction to Combinatorial Testing" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

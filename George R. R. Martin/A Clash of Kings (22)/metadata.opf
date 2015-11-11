@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4d20317-2c85-4152-aade-be6368e9210f</dc:identifier>
+        <dc:title>A Clash of Kings</dc:title>
+        <dc:creator opf:file-as="Martin, George R. R." opf:role="aut">George R. R. Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.36.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-21T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-553-89784-5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;George R. R. Martin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-10-03T06:42:13.796000+00:00" name="calibre:timestamp"/>
+        <meta content="Clash of Kings, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

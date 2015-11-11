@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36754eb4-5b42-4512-8bcc-5716d181bacc</dc:identifier>
+        <dc:title>The Magician's Nephew</dc:title>
+        <dc:creator opf:file-as="Lewis, C. S." opf:role="aut">C. S. Lewis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.36.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-10-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Amazon.com Review&lt;/h3&gt;
+&lt;p&gt;This large, deluxe hardcover edition of the first title in the classic
+   Chronicles of Narnia series, &lt;em&gt;The Magician's Nephew&lt;/em&gt;, is a gorgeous
+   introduction to the magical land of Narnia. The many readers who discovered
+   C.S. Lewis's Chronicles through __ will be delighted to find that the next
+   volume in the series is actually the first in the sequence--and a step back in
+   time. In this unforgettable story, British schoolchildren Polly and Digory
+   inadvertently tumble into the Wood Between the Worlds, where they meet the
+   evil Queen Jadis and, ultimately, the great, mysterious King Aslan. We witness
+   the birth of Narnia and discover the legendary source of all the adventures
+   that are to follow in the seven books that comprise the series.
+&lt;/p&gt;
+&lt;p&gt;Rich, heavy pages, a gold-embossed cover, and Pauline Baynes's original
+   illustrations (hand-colored by the illustrator herself 40 years later) make
+   this special edition of a classic a bona fide treasure. (Ages 9 and older) &lt;em&gt;--
+Emilie Coulter&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"The magic of C. S. Lewis's parallel universe never fades." The Times
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780027583403</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Fantasy &amp; Magic</dc:subject>
+        <meta content="{&quot;C. S. Lewis&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Chronicles of Narnia: Publication order" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2015-09-23T15:30:57.759000+00:00" name="calibre:timestamp"/>
+        <meta content="Magician's Nephew, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

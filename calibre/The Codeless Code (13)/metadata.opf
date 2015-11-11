@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58feb6f7-64d0-4742-a030-f9a00fdb9e6f</dc:identifier>
+        <dc:title>The Codeless Code</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.36.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-13T11:23:48.907000+00:00</dc:date>
+        <dc:description>The Art and Philosophy of software development, written in the spirit of Zen kōans
+
+此问题的文章： 
+The Small Stuff
+
+Unknown Unknowns
+
+Encapsulation
+
+Willows
+
+Void
+
+Empty
+
+The Enemy of the Good
+
+Reduce, Reuse, Recycle
+
+Infinities
+
+Pride
+
+Cages
+
+Effect
+
+Evolution
+
+Hello, World
+
+Immutable
+
+Documentation
+
+Not Invented By Me
+
+Necessary Features
+
+By Any Other Name
+
+Neither Yes Nor No
+
+Interrupt
+
+Safety
+
+Shape
+
+The Red Notebook
+
+Compromise
+
+The Uncorrected Monk
+
+Koan Zero
+
+Echo
+
+Goldfish
+
+Cups
+
+The Eloquent Sandal
+
+Weeds
+
+Fear
+
+The Naming of Names
+
+Sparrow Breaks Free
+
+Division
+
+Simulation
+
+Language
+
+The River of Tea
+
+Authority
+
+Garbage
+
+Triggers
+
+Holes
+
+The Backwards Monk
+
+Full Circle
+
+The Greatest Aspiration
+
+The Origin of All
+
+Silence
+
+Banzen's investigation
+
+Adapter
+
+Buckets
+
+Knots
+
+Bear Necessities
+
+Precision
+
+Enough to Hang Yourself By
+
+The Watchdog
+
+Weight
+
+Confusion
+
+Shackles
+
+Three Beggars
+
+Two Choices
+
+Porpoise
+
+Grease
+
+Decay
+
+Up To Date
+
+System
+
+The Six Unwelcome Hosts
+
+Too Eager
+
+The White Pearl
+
+Bathwater
+
+Fear of Commitment
+
+Myong's Cat
+
+The Upside-Down Abbey
+
+Crashing the Third Gate
+
+Cave Canem
+
+A Breed Apart
+
+Bubble Sort
+
+Jinyu's Tack
+
+Consequences
+
+What It Says On The Tin
+
+Suku's Golden Mean
+
+Liberation
+
+The Concubine's Fog
+
+Suku's Adviser
+
+Version Control
+
+Not A Number
+
+The Soul of Wit
+
+Still Waters
+
+You Take the High Road
+
+Conventions
+
+Roses are Red
+
+Stateless
+
+Flammable
+
+Anti Matter
+
+Queen Error
+
+Ten Thousand Mistakes
+
+Accountability
+
+Paddle
+
+The Black Enamel Box
+
+Guardrails
+
+Navigation
+
+The "I" In Team
+
+Babel
+
+Sweet Tooth
+
+The Ties that Bind
+
+The Trunk
+
+Labyrinth
+
+Speak to Me
+
+Black Sheep
+
+Character Assassination
+
+Pain
+
+Trust No One
+
+Bareback
+
+Clay
+
+Sushi
+
+Plug and Play
+
+Where Angels Fear to Thread
+
+Craftsmanship
+
+Order and Chaos
+
+The Hidden Variable
+
+Power
+
+Tea for Two
+
+State Change
+
+The Prison of Infinite Pleasures
+
+Like a Rolling Stone
+
+The First Mantra
+
+Don't Think
+
+Interpreter
+
+Dead Language
+
+Thin Ice
+
+Ass-Backwards Compatibility
+
+Unsupported Protocol
+
+The 1000 Words
+
+The Province of Eternal Crisis
+
+Feedback
+
+Heartbleed
+
+Ill Met By Moonlight
+
+The Blind Leading the Blind
+
+Monolith
+
+Mnemonic
+
+Five Years
+
+Box Model
+
+Bawan's Table
+
+Subtle Art
+
+The First Finger
+
+Undone
+
+The Summer Scarf
+
+What Lies Beneath
+
+The Red Circle
+
+A Bridge To Nowhere
+
+Don't Help
+
+The Garden Path
+
+Captive Audience
+
+Monday, Monday
+
+Blocks
+
+The Eye of the Beholder
+
+Triangle
+
+All According to Plan
+
+Vacation
+
+Paradox
+
+Failsafe
+
+Tempus Fugit
+
+Back to Basics
+
+Horizontal, Vertical
+
+Best Practices
+
+The Purple Beggar
+
+Initial Conditions
+
+Lesson One
+
+Lost Peer
+
+Out of the Zone
+
+Flat Shark
+
+Many Happy Returns
+
+The Tool-Shed
+
+Unity
+
+Walking the Path
+
+Past Perfect
+
+Future Imperfect
+
+Mousetrap
+
+Choosing Your Battles
+
+Life
+
+Nothing, Forever
+
+Exit Interview
+
+Tough Love
+
+The Dense Forest
+
+To Make An Omelette
+
+The Four Words of Distress: Part One
+
+The Four Words of Distress: Part Two
+
+The Vicious Circle
+
+Stray
+
+The Magician's Code
+
+Fee
+
+Forgiveness
+
+This Too Shall Pass
+
+Unwitting Accomplice
+
+The Boolean
+
+Ignorance is Bliss
+
+Anchors Aweigh
+
+In the Stars
+
+Night Shift
+
+Plural Effusion</dc:description>
+        <dc:publisher>Qi</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">fbc3869f-a29b-49e3-846b-aed3150a8728</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>The Codeless Code</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-09-13T11:24:30.902000+00:00" name="calibre:timestamp"/>
+        <meta content="Codeless Code, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

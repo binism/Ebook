@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b39d8a0-4a00-4c03-ab33-0addb35320c7</dc:identifier>
+        <dc:title>Mirror for Humanity: A Concise Introduction to Cultural Anthropology</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">未知</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.36.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-30T07:14:24+00:00</dc:date>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;未知&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-09-13T10:40:58.607000+00:00" name="calibre:timestamp"/>
+        <meta content="Mirror for Humanity: A Concise Introduction to Cultural Anthropology" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

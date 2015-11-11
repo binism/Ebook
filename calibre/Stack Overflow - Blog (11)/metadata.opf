@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">922404f5-8a18-4469-b756-539d9b66449f</dc:identifier>
+        <dc:title>Stack Overflow - Blog</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.36.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-13T11:06:44.327000+00:00</dc:date>
+        <dc:description>a programming community exploit
+
+此问题的文章： 
+Stack Spotlight: Aurélien Gasser
+
+A Better Syntax for Scheduled Tasks
+
+Anil Dash and the Firehose of Nerd-dom
+
+Welcome, Juan Garza, and Stack Overflow En Español!
+
+Why Stack Overflow is a Good Workplace for Women</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">9520563e-471c-4eaa-9b43-84668e9ca5b5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>Stack Overflow - Blog</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-09-13T11:06:48.021000+00:00" name="calibre:timestamp"/>
+        <meta content="Stack Overflow - Blog" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

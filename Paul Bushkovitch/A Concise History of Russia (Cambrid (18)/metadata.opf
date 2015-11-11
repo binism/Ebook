@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51f034be-1171-4fdb-8b40-5303802b0b73</dc:identifier>
+        <dc:title>A Concise History of Russia (Cambridge Concise Histories)</dc:title>
+        <dc:creator opf:file-as="Bushkovitch, Paul" opf:role="aut">Paul Bushkovitch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.36.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-14T16:00:00+00:00</dc:date>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B006WNSKCO</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781139215886</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Paul Bushkovitch&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-09-25T08:48:11.724000+00:00" name="calibre:timestamp"/>
+        <meta content="Concise History of Russia (Cambridge Concise Histories), A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21f77f00-d8b1-4ae5-b36e-86b230b70801</dc:identifier>
+        <dc:title>A Little History of the World</dc:title>
+        <dc:creator opf:file-as="Gombrich, E. H." opf:role="aut">E. H. Gombrich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.40.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-13T14:13:35.746193+00:00</dc:date>
+        <dc:description>&lt;P&gt;E. H. Gombrich's &lt;I&gt;Little History of the World&lt;/I&gt;, though written in 1935, has become one of the treasures of historical writing since its first publication in English in 2005. The Yale edition alone has now sold over half a million copies, and the book is available worldwide in almost thirty languages.&lt;p&gt;Gombrich was of course the best-known art historian of his time, and his text suggests illustrations on every page. This illustrated edition of the &lt;I&gt;Little History&lt;/I&gt; brings together the pellucid humanity of his narrative with the images that may well have been in his mind's eye as he wrote the book. The two hundred illustrations&amp;#8212;most of them in full color&amp;#8212;are not simple embellishments, though they are beautiful.</dc:description>
+        <dc:publisher>Yale University Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">5590ac03-d1bb-4871-a5f6-a4518f8f008f</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;E. H. Gombrich&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-10-18T14:00:07.483000+00:00" name="calibre:timestamp"/>
+        <meta content="Little History of the World, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

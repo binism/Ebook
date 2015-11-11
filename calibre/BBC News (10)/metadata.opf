@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35002a98-7f2a-4ba8-ab8e-2b9a848a0346</dc:identifier>
+        <dc:title>BBC News</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.36.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-13T11:01:35.160000+00:00</dc:date>
+        <dc:description>BBC web site ebook created using rss feeds.
+
+此问题的文章： 
+Get behind Corbyn, Labour MPs told
+
+SNP to reveal new referendum timetable
+
+Munich 'at limit' over migrants
+
+India shopkeeper wanted over blast
+
+Murder hunt over body found in woods
+
+India train injured remain in hospital
+
+Clashes at Jerusalem's al-Aqsa mosque
+
+Elton John wants Putin gay rights talks
+
+Teenager raped in 'horrendous' attack
+
+Redmayne: Trans film privilege to make
+
+Reaction to Corbyn leadership victory
+
+Migrant crisis: Why is it erupting now?
+
+What now for Jeremy Corbyn?
+
+Morgan retires hurt after head blow
+
+Who would be a football manager?
+
+Tottenham release striker Adebayor
+
+Mayweather makes it 49 straight wins
+
+Corbyn victory: Reaction in quotes
+
+Watson elected deputy Labour leader
+
+Target of four-week cancer diagnosis
+
+Flu jab worked in one in three cases
+
+Student's cool plastic electronics
+
+Venezuelan film wins Venice festival
+
+Sound of Music sing-along at Proms
+
+Can eating more than six bananas at once kill you?
+
+How to robot-proof your career
+
+The rude, vulgar US presidential election
+
+24 things that Jeremy Corbyn believes
+
+The amazing science behind fatal snake bites
+
+North Korea: surfer's paradise?
+
+Spaniards battle over town's brutal bullfighting tradition
+
+How a computer describes a sports match
+
+Five arrested in city murder probe
+
+Adams hits out at 'Hokey Cokey DUP'
+
+McGuigan killers 'enemies of peace'
+
+UUP likely to take part in talks
+
+Corbyn win 'may hinder' Welsh Labour
+
+Body in flat murder probe continues
+
+Man arrested over Greenock death
+
+Murder inquiry after man's body found
+
+Corbyn addresses London refugee rally
+
+Bus crash driver 'relieved of duties'
+
+Profile: Tom Watson, Labour deputy leader
+
+Battles of Britain: Which changed us most?
+
+Public art that falls out of favour
+
+The rise and fall of Action Man
+
+Ukraine talks see 'significant progress'
+
+Saudi king vows public crane fall inquiry
+
+Russia set to vote in key regional polls
+
+Moldova braces for another protest
+
+Kenya uprising memorial unveiled
+
+Record-breaker astronaut back on Earth
+
+Video shows officer tackling Blake
+
+Egypt government submits resignation
+
+Britons killed as India train derails
+
+Singapore ruling party wins poll
+
+Leader Corbyn vows Labour 'fightback'
+
+Russian cargo planes arrive in Syria
+
+Ronaldo a history maker - Benitez
+
+Who, What, Why: What is skunk water?
+
+Swiss ditch old hymn and vote for new anthem
+
+US hiker's body found in Spain
+
+Mistrial over US police 'assault' of Indian
+
+Obama: China cyber attacks 'unacceptable'
+
+Guide to UK's new opposition leader
+
+Corbyn victory: How did he do it?
+
+Dugdale: Corbyn win 'vote for change'
+
+Corbyn hailed for 'impressive' win
+
+Queensferry Crossing deck lift started
+
+Who are Jeremy Corbyn's main allies?
+
+The Jeremy Corbyn Story
+
+What Corbyn's victory means for Labour
+
+Labour leadership results in full
+
+Making AI work in the real world
+
+Can 'fat shaming' be defended?
+
+Refugee Mario: The video game of the migrant crisis
+
+Guy Byam, the BBC's lost reporter
+
+New signs of China economic slowdown
+
+Why banks offer cash for your custom
+
+Pennetta wins US Open women's title
+
+Van Gaal praises Martial impact
+
+Groves loses third world title shot
+
+I'm the man for Chelsea - Mourinho
+
+Ogier wins third world rally title
+
+Whiley reaches US wheelchair final
+
+Joshua lands Commonwealth belt
+
+Sunday's gossip column
+
+Radcliffe says claims affect family
+
+England have the momentum - Morgan
+
+Aberdeen 2-1 Celtic
+
+Federer &amp; Djokovic set for US final
+
+Murray loses US Open doubles final
+
+Porter wins Great City Games hurdles
+
+Aru poised to win Vuelta a Espana
+
+Shooting gold for Britain's women
+
+Bondi Beach profits from St Leger ruling
+
+GB &amp; Ireland lead USA in Walker Cup
+
+Atletico Madrid 1-2 Barcelona
+
+Taylor third as Germany retain lead
+
+Choong and Bedford win world title
+
+Have Chelsea blown the title already?
+
+Lawro's predictions v Mark Webber
+
+Non-league player banned for 'bite'
+
+Middlesex spoil Yorkshire party
+
+Greipel wins Tour of Britain stage
+
+Darke wins second Para-cycling silver
+
+Aguero a doubt for Juventus game
+
+Melbourne extends Australian GP deal
+
+Lee Mi-hyang retains Evian lead
+
+Gleneagles pulls out of Irish duel
+
+Catalans Dragons 46-16 Leeds Rhinos
+
+Williams defeat a 'monumental shock'
+
+Lewis-Francis targets bobsleigh medal
+
+Dunn named Oldham interim manager
+
+Beating Celtic vital, says McInnes
+
+Swansea had poor afternoon - Monk
+
+Meeke finishes third in Australia</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ed760c20-df89-4ce3-a1d2-bc73fecdb6a7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>BBC News</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-09-13T11:02:31.991000+00:00" name="calibre:timestamp"/>
+        <meta content="BBC News" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55286dad-245b-4123-80b6-e6b8ee490c47</dc:identifier>
+        <dc:title>Mastering Regular Expressions, 3rd Edition</dc:title>
+        <dc:creator opf:file-as="Friedl, By Jeffrey E. F." opf:role="aut">By Jeffrey E. F. Friedl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.36.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Published August 2006, 542 pages.</dc:description>
+        <dc:publisher>O'Reilly</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0-596-52812-4</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;By Jeffrey E. F. Friedl&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-09-04T09:26:02.807000+00:00" name="calibre:timestamp"/>
+        <meta content="Mastering Regular Expressions, 3rd Edition" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

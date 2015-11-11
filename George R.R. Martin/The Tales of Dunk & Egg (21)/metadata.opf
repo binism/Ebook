@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46552335-2452-4f5c-9a46-19e0a5f2ab28</dc:identifier>
+        <dc:title>The Tales of Dunk &amp; Egg</dc:title>
+        <dc:creator opf:file-as="Martin, George R.R." opf:role="aut">George R.R. Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.36.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-01T23:08:18+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;George R.R. Martin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="The Tales of Dunk &amp; Egg" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2015-10-03T06:36:57.007000+00:00" name="calibre:timestamp"/>
+        <meta content="Tales of Dunk &amp; Egg, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

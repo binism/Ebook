@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4dab8c3-3f28-4d1f-aeaa-a2bfc7eb3c5d</dc:identifier>
+        <dc:title>BBC News</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.40.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-11T09:53:24.338000+00:00</dc:date>
+        <dc:description>BBC web site ebook created using rss feeds.
+
+此问题的文章： 
+Turkey in mourning after deadly blasts
+
+UK military convoy attacked in Kabul
+
+Coleman hails 'dream' qualification
+
+'Racism' fear over landlord checks
+
+'Witchcraft' abuse cases on the rise
+
+Midwives warning over staff shortages
+
+MPs call for tobacco tax increase
+
+'Get your tin hat on' over tax credits
+
+New leads in 25-year-old murder probe
+
+Palestinians die in Israel Gaza strike
+
+US to compensate Kunduz strike victims
+
+Turkey blasts, 'Maggie's Mauler', and GBBO 'battle'
+
+Russian reservations on Syria strikes
+
+Still Europe's last dictator?
+
+Hundreds vie for world conker crown
+
+Grayson Perry house wins baking prize
+
+Wales' Williams out of World Cup
+
+'We doubted it would ever happen'
+
+GB's Joyce second in Ironman race
+
+Ex-M&amp;S boss to lead pro-EU campaign
+
+Berlin protest against EU-US trade deal
+
+Former chancellor Geoffrey Howe dies
+
+Obituary: Geoffrey Howe
+
+Nurse in Ebola scare still 'serious'
+
+England's hospice ratings 'encouraging'
+
+Digitising Yorkshire's savannah past
+
+The reward for 'whale watching' on Mars
+
+Singer-songwriter Jim Diamond dies
+
+Actor LaBeouf arrested for being drunk
+
+The holy mountain that's become too popular
+
+Brazilian mother's battle for natural childbirth
+
+The challenges of being transgender and over 60
+
+The flying fanatic who helped babies breathe
+
+The teenager whose life - and memorial service - were broadcast online
+
+Robbery suspect dies in hospital
+
+Iconic Red Road flats to be blown up
+
+Island evacuees to unveil WWII plaque
+
+Thousands to see Forest film at stadium
+
+Iron Bridge in fabric art installation
+
+Free eggs incentive for football fans
+
+Books of condolence to open for Irish victims
+
+Man dies in two-car crash in Omagh
+
+Celebrations as Wales team due home
+
+Wales to pay 'high price' for cuts
+
+Co-driver dies in island rally crash
+
+Concern over out-of-hours GP shortage
+
+Taxi passenger dies in car crash
+
+Second charge over fatal shooting
+
+Why do people risk death jousting?
+
+Scotland get it right when it counts
+
+Lake Chad town hit by suicide bombers
+
+Bowe Bergdahl 'shouldn't be jailed'
+
+Russia steps up Syria air strikes
+
+Guinea to vote in tense elections
+
+Calls for Brazil Congress head to go
+
+South Indian actress Manorama dies
+
+Jaguar 'too fat to mate' heading home
+
+Risk of new landslide in Guatemala
+
+US hedge fund threatens to sue Peru
+
+North Korea 'ready to defend itself'
+
+Australia 15-6 Wales
+
+Sainz to race in Russia after crash
+
+USA win dramatic Presidents Cup
+
+Azerbaijan 1-3 Italy
+
+The glass pyramid that reveals Kazakhstan's ambitions
+
+Two die in two US university shootings
+
+Parliament to review EU membership
+
+Thatcher was urged to soften image
+
+Politicians must provide sustainable future
+
+World Cup forces farmers' market shut
+
+Russia hopes for Grand Prix boost</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">0a08ef00-4f38-4e12-94d6-0b6f5fa1af11</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>BBC News</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-10-11T09:54:06.400000+00:00" name="calibre:timestamp"/>
+        <meta content="BBC News" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

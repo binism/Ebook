@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18ca61b7-1c41-4e35-a864-4eaa0e2d7c05</dc:identifier>
+        <dc:title>The Information</dc:title>
+        <dc:creator opf:file-as="Gleick, James" opf:role="aut">James Gleick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.36.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Pantheon</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6f383bc9-1861-4b5b-8b09-d01968387c9a</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Non-Fiction</dc:subject>
+        <meta content="{&quot;James Gleick&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-10-01T16:33:12+00:00" name="calibre:timestamp"/>
+        <meta content="Information, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

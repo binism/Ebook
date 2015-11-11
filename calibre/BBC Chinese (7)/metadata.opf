@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02ad9c79-51bd-47ba-899c-5d104c8976fe</dc:identifier>
+        <dc:title>BBC Chinese</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.36.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-13T10:54:01.645000+00:00</dc:date>
+        <dc:description>BBC news in Chinese
+
+此问题的文章：</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">4beed17e-ca67-4f26-8c4d-0ccc649ba631</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>BBC Chinese</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-09-13T10:54:04.021000+00:00" name="calibre:timestamp"/>
+        <meta content="BBC Chinese" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

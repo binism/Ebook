@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7cd7c8f1-2b39-4442-ac4b-3611c38c0046</dc:identifier>
+        <dc:title>Understanding the Linux Kernel, 3rd Edition</dc:title>
+        <dc:creator opf:file-as="Daniel P. Bovet and Marco Cesati" opf:role="aut">Daniel P. Bovet</dc:creator>
+        <dc:creator opf:file-as="Daniel P. Bovet and Marco Cesati" opf:role="aut">Marco Cesati</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.36.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-16T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;This new edition covers Version 2.6 of the Linux kernel, which has seen significant changes to nearly every kernel subsystem, particularly in the areas of memory management and block devices. &lt;i&gt;Understanding the Linux Kernel&lt;/i&gt; provides a guided tour of the code that forms the core of all Linux operating systems. Beyond the functioning of the code, the book explains the theoretical underpinnings for why Linux, and many other operating systems, do things the way they do.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780596158804</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>COMPUTERS / Operating Systems / Linux</dc:subject>
+        <meta content="{&quot;Marco Cesati&quot;: &quot;&quot;, &quot;Daniel P. Bovet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-09-08T03:38:40.205000+00:00" name="calibre:timestamp"/>
+        <meta content="Understanding the Linux Kernel, 3rd Edition" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

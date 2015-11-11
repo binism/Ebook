@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7fa63748-2630-4c2c-ac14-a207dae18f82</dc:identifier>
+        <dc:title>Linux Kernel in a Nutshell</dc:title>
+        <dc:creator opf:file-as="Greg Kroah-Hartman" opf:role="aut">Greg Kroah-Hartman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.36.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-08T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;i&gt;Linux Kernel in a Nutshell&lt;/i&gt; covers the entire\nrange of kernel tasks, starting with downloading the source and making\nsure that the kernel is in sync with the versions of the tools you\nneed. In addition to configuration and installation steps, the book\noffers reference material and discussions of related topics such as\ncontrol of kernel options at runtime.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780596105785</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>COMPUTERS / Operating Systems / Linux</dc:subject>
+        <meta content="{&quot;Greg Kroah-Hartman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-09-08T03:38:36.833000+00:00" name="calibre:timestamp"/>
+        <meta content="Linux Kernel in a Nutshell" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
